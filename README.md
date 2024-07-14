@@ -11,9 +11,8 @@
 
 MS access를 이용해 데이터베이스를 구축하고, 간단한 ui를 제작한 프로젝트입니다.
 
-
+<br/>
 <small>_서울과학기술대학교 24-1 생산정보시스템 팀프로젝트_</small>
-![모바일영수증이미지](https://github.com/user-attachments/assets/613616c7-0375-44ed-8320-cce8c668179c)
 <br/><br/>
 
 
